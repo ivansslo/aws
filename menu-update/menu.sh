@@ -74,7 +74,7 @@ echo -e  "\e[0m"
 case $menu in
        1)
 	clear
-        ssh
+        sssh
 	exit
 	;;
 	2)
