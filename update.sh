@@ -11,7 +11,7 @@ clear
 
 # update
 cd /usr/bin
-GitUser="syapik96"
+GitUser="ivansslo"
 #wget https://github.com/${GitUser}/
 wget -O  menu "https://raw.githubusercontent.com/${GitUser}/aws/main/menu-update/menu.sh"
 chmod +x menu.sh
